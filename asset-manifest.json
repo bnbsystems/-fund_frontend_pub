@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fund_frontend_pub/static/css/main.e27d4ed5.css",
-    "main.js": "/fund_frontend_pub/static/js/main.bb737f33.js",
+    "main.js": "/fund_frontend_pub/static/js/main.cb440c1e.js",
     "static/media/damir-bosnjak.jpg": "/fund_frontend_pub/static/media/damir-bosnjak.efcaca50b633c2ba2ba9.jpg",
     "static/media/clem-onojeghuo-2.jpg": "/fund_frontend_pub/static/media/clem-onojeghuo-2.d16702ce00aa38f275c0.jpg",
     "static/media/ayo-ogunseinde-2.jpg": "/fund_frontend_pub/static/media/ayo-ogunseinde-2.f4af8f2c98f6968c5ae9.jpg",
@@ -14,10 +14,10 @@
     "static/media/logo.svg": "/fund_frontend_pub/static/media/logo.2d27ead7c10f774c5306bcf3c257a728.svg",
     "index.html": "/fund_frontend_pub/index.html",
     "main.e27d4ed5.css.map": "/fund_frontend_pub/static/css/main.e27d4ed5.css.map",
-    "main.bb737f33.js.map": "/fund_frontend_pub/static/js/main.bb737f33.js.map"
+    "main.cb440c1e.js.map": "/fund_frontend_pub/static/js/main.cb440c1e.js.map"
   },
   "entrypoints": [
     "static/css/main.e27d4ed5.css",
-    "static/js/main.bb737f33.js"
+    "static/js/main.cb440c1e.js"
   ]
 }
